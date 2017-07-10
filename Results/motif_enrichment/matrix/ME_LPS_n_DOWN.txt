@@ -1,0 +1,2 @@
+name	type	file
+LPS_n_DOWN	regions	/work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment/input/LPS_n_DOWN.bed

@@ -1,0 +1,74 @@
+Sender: LSF System <lsfadmin@linuxihbc45>
+Subject: Job 24654935: <ME_PROM> in cluster <rcc> Done
+
+Job <ME_PROM> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxihbc45>, in queue <ih>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage> was used as the working directory.
+Started at Fri Oct 30 16:47:49 2015
+Results reported on Fri Oct 30 16:50:53 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --enrichment --organism hg19 --promoter-length 1000 --maximum-association-length 50000 --multiple-test-alpha 0.05 --processes 1 --output-location /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/results/all_promoter_background/M2c_macrophage_down/ --print-thresh 1.0 --bigbed /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/matrix/ME_M2c_macrophage_down.txt /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/results/all_promoter_background/M2c_macrophage_down/
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   212.59 sec.
+    Max Memory :                                 466 MB
+    Average Memory :                             199.00 MB
+    Total Requested Memory :                     24000.00 MB
+    Delta Memory :                               23534.00 MB
+    Max Processes :                              8
+    Max Threads :                                9
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <ME_PROM_err.txt> for stderr output of this job.
+
+Sender: LSF System <lsfadmin@linuxihbc45>
+Subject: Job 24654936: <ME_PROM> in cluster <rcc> Done
+
+Job <ME_PROM> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxihbc45>, in queue <ih>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage> was used as the working directory.
+Started at Fri Oct 30 16:47:49 2015
+Results reported on Fri Oct 30 16:50:53 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --enrichment --organism hg19 --promoter-length 1000 --maximum-association-length 50000 --multiple-test-alpha 0.05 --processes 1 --output-location /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/results/all_promoter_background/M2c_macrophage_up/ --print-thresh 1.0 --bigbed /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/matrix/ME_M2c_macrophage_up.txt /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/results/all_promoter_background/M2c_macrophage_up/
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   239.99 sec.
+    Max Memory :                                 468 MB
+    Average Memory :                             202.67 MB
+    Total Requested Memory :                     24000.00 MB
+    Delta Memory :                               23532.00 MB
+    Max Processes :                              8
+    Max Threads :                                9
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <ME_PROM_err.txt> for stderr output of this job.
+

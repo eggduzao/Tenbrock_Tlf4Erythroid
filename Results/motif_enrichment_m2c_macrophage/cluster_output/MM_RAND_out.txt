@@ -1,0 +1,37 @@
+Sender: LSF System <lsfadmin@linuxihbc45>
+Subject: Job 24624390: <MM_RAND> in cluster <rcc> Done
+
+Job <MM_RAND> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxihbc45>, in queue <ih>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage> was used as the working directory.
+Started at Thu Oct 29 16:15:39 2015
+Results reported on Thu Oct 29 16:27:44 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --matching --organism hg19 --fpr 0.0001 --precision 10000 --pseudocounts 0.1 --rand-proportion 10 --output-location /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/results/random_background/ --bigbed /work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/matrix/MM_random_background.txt
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   647.39 sec.
+    Max Memory :                                 244 MB
+    Average Memory :                             109.26 MB
+    Total Requested Memory :                     24000.00 MB
+    Delta Memory :                               23756.00 MB
+    Max Processes :                              5
+    Max Threads :                                6
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <MM_RAND_err.txt> for stderr output of this job.
+

@@ -1,0 +1,2 @@
+name	type	file
+M2c_macrophage_down	regions	/work/eg474423/eg474423_Projects/trunk/Tlf4Erythroid/Results/motif_enrichment_m2c_macrophage/input/M2c_macrophage_down.bed
